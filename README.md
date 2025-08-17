@@ -1,4 +1,5 @@
 # City Skyline
+
 > A small app built entirely in vanilla HTML, CSS, and Javascript. Simply click the buttons in various combinations to change up the view, and witness the raw power of vanilla CSS
 > without all the bells and whistles of modern libraries.
 >
@@ -12,7 +13,7 @@ Built with:
 
 Vite was chosen because it is lightweight. This is not a React app, but making it a vanilla Vite project made deploying via Dokku much simpler.
 
-If clone this repo and want to play around with the code, run these to get it running locally: 
+If you want to play around with the code, clone this repo and run these commands to get it going locally:
 
 ```sh
 npm i
@@ -24,10 +25,10 @@ The terminal should tell you which port it's on.
 
 ## Release History
 
-* 1.1.1
-    * Complete migration to Vite.
-* 1.1.0
-    * Migrate to Vite.
-    * Add rain and neon modes.
-* 1.0.0
-    * First release, simple HTML & CSS with minimal JS.
+- 1.1.1
+  - Complete migration to Vite.
+- 1.1.0
+  - Migrate to Vite.
+  - Add rain and neon modes.
+- 1.0.0
+  - First release, simple HTML & CSS with minimal JS.
