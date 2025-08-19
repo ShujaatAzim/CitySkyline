@@ -25,6 +25,8 @@ The terminal should tell you which port it's on.
 
 ## Release History
 
+- 1.1.2
+  - Make clouds white in day mode.
 - 1.1.1
   - Complete migration to Vite.
 - 1.1.0
