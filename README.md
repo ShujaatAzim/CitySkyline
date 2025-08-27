@@ -12,7 +12,7 @@ Built with:
 
 Vite was chosen because it is lightweight. This is not a React app, but making it a vanilla Vite project made deploying via Dokku much simpler.
 
-If clone this repo and want to play around with the code, run these to get it running locally: 
+If you want to play around with the code, clone this repo and run these to get it running locally: 
 
 ```sh
 npm i
